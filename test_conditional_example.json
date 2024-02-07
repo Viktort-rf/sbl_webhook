@@ -1,0 +1,14 @@
+{
+  "and": [
+      {
+          "attr": "untagged_vlan.vid",
+          "op": "in",
+          "value": [
+              101,
+              102,
+              103,
+              106
+          ]
+      }
+  ]
+}
